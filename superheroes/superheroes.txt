@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "nombreSuperheroe": "Capitán Mala Paka",
+        "nombreReal": "Leo Mareo",
+        "nombreSociedad": "Piratas de la cuna errante",
+        "edad": 3,
+        "planetaOrigen": "Isla del Tesoro Olvidado",
+        "debilidad": "El cambio de pañal inesperado",
+        "poder": ["Rastreo infalible de tesoros (biberones y chupetes de oro)"],
+        "habilidadEspecial": "Pirata del sigilo: puede moverse sin despertar a nadie",
+        "aliado": ["El Pulpo Mordelón (un peluche con múltiples tentáculos que ayudan a recuperar tesoros robados)"],
+        "enemigo": [ "El Barón del Insomnio (líder de los piratas que roban los tesoros para mantener a los bebés despiertos)"]
+    },
+    {   "id": 2,
+        "nombreSuperheroe": "Héroe en Pañales",
+        "nombreReal": "Nico Zzz",
+        "nombreSociedad": "Liga de los Dormilones Justicieros",
+        "edad": 1.5,
+        "planetaOrigen": "Reino de las Sábanas Mágicas",
+        "debilidad": "El bostezo gigante (cuando le da mucho sueño, pierde fuerzas)",
+        "poder": ["Viajar a través de los sueños de los bebés"],
+        "habilidadEspecial": "Toque calmante (con solo tocar a un bebé en una pesadilla, lo tranquiliza instantáneamente)",
+        "aliado": ["La Nana Luminosa (una pequeña luz flotante que lo guía en las misiones nocturnas)"],
+        "enemigo": ["El Duende del Desvelo (una criatura traviesa que esconde chupetes y vacía mamaderas para causar caos nocturno)"]
+    },
+    {
+        "id": 4,
+        "nombreSuperheroe": "Dedo Biónico",
+        "nombreReal": "Tomás Tecno",
+        "nombreSociedad": "Los Genios del Toqueteo",
+        "edad": 3,
+        "planetaOrigen": "Circuitolandia",
+        "debilidad": "Cuando se queda sin batería (porque no durmió la siesta)",
+        "poder": ["Con solo tocar algo, lo activa o lo desactiva (luces, juguetes, televisores, celulares, etc.)"],
+        "habilidadEspecial": "Es capaz de descifrar cualquier clave o patrón de desbloqueo con su súper toque",
+        "aliado": ["El Control Remoto Viviente (su mejor amigo, que siempre lo ayuda a encender o apagar cosas en momentos críticos)"],
+        "enemigo": ["La Mamá NO TOQUES (siempre vigilando que no active cosas peligrosas)"]
+    },
+    {
+        "id": 5,
+        "nombreSuperheroe": "La Tormenta de la Comida",
+        "nombreReal": "Martina Tragoncita",
+        "nombreSociedad": "Los Defensores del Almuerzo",
+        "edad": 4,
+        "planetaOrigen": "La Gran Cocina Cósmica",
+        "debilidad": "Cuando le dan brócoli sin aviso",
+        "poder": ["Puede invocar lluvias de comida deliciosa para distraer a sus enemigos"],
+        "habilidadEspecial": "La Mirada Suplicante(con una sola mirada logra que le den más comida)",
+        "aliado": ["La Cuchara Mágica (utensilio encantado que hace que cualquier comida sepa increíble)"],
+        "enemigo": ["El Malvado Puré sin Sal (intenta quitarle el sabor a todo lo que come)"]
+    }
+
+]
