@@ -1,6 +1,6 @@
-# Repositorio de Ejemplo: TP2 - Sprint 1, Módulo 3
+# Repositorio de Ejemplo: TP3 - Sprint 1, Módulo 3
 
-Este repositorio fue creado en el marco de la **Diplomatura Universitaria en Desarrollo Web Full Stack con JavaScript**, impartida por el **Nodo Tecnológico y la Universidad de Catamarca**. El trabajo contenido aquí corresponde al **TP2 del 1° Sprint del Módulo 3** de la diplomatura.
+Este repositorio fue creado en el marco de la **Diplomatura Universitaria en Desarrollo Web Full Stack con JavaScript**, impartida por el **Nodo Tecnológico y la Universidad de Catamarca**. El trabajo contenido aquí corresponde al **TP3 del 1° Sprint del Módulo 3** de la diplomatura.
 
 ## 📌 Descripción
 
