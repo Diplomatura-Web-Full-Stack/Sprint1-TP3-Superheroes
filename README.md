@@ -20,7 +20,7 @@ El objetivo principal es **practicar la manipulación de archivos en Node.js**, 
 - `nuevosSuperheroes.json`: Archivo con nuevos superhéroes a agregar a la lista.
 
 
-Este material es de **uso académico**, destinado a fortalecer la comprensión de la programación del lado del servidor con **Node.js** y la gestión de recursos del sistema.
+Este material es de **uso académico**, destinado a fortalecer la comprensión de la programación del lado del servidor con **Node.js** y la gestión de recursos del sistema., 
 
 
 ## 👩‍🎓 Alumno

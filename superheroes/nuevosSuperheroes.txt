@@ -1,0 +1,41 @@
+[
+    {
+        "id": 6,
+        "nombreSuperheroe": "El Rayo de los Juguetes",
+        "nombreReal": "Max Relámpago",
+        "nombreSociedad": "Los Guardianes del Desorden",
+        "edad": 4,
+        "planetaOrigen": "Juguetópolis",
+        "debilidad": "Cuando le piden que guarde sus juguetes",
+        "poder": ["Puede hacer que cualquier juguete cobre vida por unos minutos"],
+        "habilidadEspecial": "Convoca una avalancha de juguetes para escapar de situaciones peligrosas",
+        "aliado": ["Robotín, el Transformable (un juguete que puede convertirse en cualquier herramienta necesaria)"],
+        "enemigo": ["La Gran Bolsa de los Juguetes Guardados (traga todo lo que está en el suelo y lo hace desaparecer)"]
+    },
+    {
+        "id": 7,
+        "nombreSuperheroe": "Mega Berrinche",
+        "nombreReal": "Luli Trueno",
+        "nombreSociedad": "La Liga de los Pequeños Rebeldes",
+        "edad": 3,
+        "planetaOrigen": "Llantópolis",
+        "debilidad": "Cuando le dan lo que quiere, pierde su poder",
+        "poder": [El llanto ultra sónico (hace temblar paredes y desbloquear puertas)"],
+        "habilidadEspecial": "El Pataleo Sísmico :genera pequeños terremotos que sacuden todo a su alrededor",
+        "aliado": ["Mochi el Osito Dramático (un peluche que aumenta su poder cuando es abrazado)"],
+        "enemigo": ["El Maestro ‘Ya Fue’ (trata de distraerla para que olvide su berrinche)"]
+    },
+    {
+        "id": 8,
+        "nombreSuperheroe": "Señor Tiempecito",
+        "nombreReal": "Bruno Tic-Tac",
+        "nombreSociedad": "Los Magos del Tiempo",
+        "edad": 5,
+        "planetaOrigen": "Cronolandia",
+        "debilidad": "La hora de dormir lo debilita",
+        "poder": ["Puede adelantar o retrasar el tiempo a voluntad"],
+        "habilidadEspecial": "Ralentiza el tiempo cuando está jugando para que nunca termine la diversión",
+        "aliado": ["Relojin, el Cronómetro Parlante (le avisa cuánto tiempo le queda antes de que lo obliguen a dormir)"],
+        "enemigo": ["Señor ‘Es Tarde’ (quiere mandarlo a la cama a toda costa)"]
+    }
+]

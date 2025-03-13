@@ -9,7 +9,7 @@
         "debilidad": "El cambio de pañal inesperado",
         "poder": ["Rastreo infalible de tesoros (biberones y chupetes de oro)"],
         "habilidadEspecial": "Pirata del sigilo: puede moverse sin despertar a nadie",
-        "aliado": ["El Pulpo Mordelón (un peluche con múltiples tentáculos que ayudan a recuperar tesoros robados)"],
+        "aliado": ["El Pulpo Mordelón (un peluche con múltiples tentáculos que ayuda a recuperar tesoros robados)"],
         "enemigo": [ "El Barón del Insomnio (líder de los piratas que roban los tesoros para mantener a los bebés despiertos)"]
     },
     {   "id": 2,
@@ -23,6 +23,19 @@
         "habilidadEspecial": "Toque calmante (con solo tocar a un bebé en una pesadilla, lo tranquiliza instantáneamente)",
         "aliado": ["La Nana Luminosa (una pequeña luz flotante que lo guía en las misiones nocturnas)"],
         "enemigo": ["El Duende del Desvelo (una criatura traviesa que esconde chupetes y vacía mamaderas para causar caos nocturno)"]
+    },
+     {
+        "id": 3,
+        "nombreSuperheroe": "El Rayo Baboso",
+        "nombreReal": "Maxi Babitas",
+        "nombreSociedad": "La Liga de los Pegajosos",
+        "edad": 1.8,
+        "planetaOrigen": "Babylonia Prime",
+        "debilidad": "Un babero seco",
+        "poder": ["Su baba ultraresbaladiza hace que los villanos tropiecen y no puedan atraparlo"],
+        "habilidadEspecial": "Puede lanzar burbujas babosas que atrapan a sus enemigos",
+        "aliado": ["Migas, el Cachorro Travieso"],
+        "enemigo": ["Inspector ManosLimpias (revisa que nadie tenga restos de comida en las manos y los obliga a lavarse)"]
     },
     {
         "id": 4,

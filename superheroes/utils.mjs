@@ -35,7 +35,7 @@ export function leerSuperheroes(ruta){
 
 }
 
-// Nueva función para agregar superhéroes
+// NUEVA función para AGREGAR superhéroes
 export function agregarSuperheroes(rutaOriginal, rutaNuevos) {
     // Leer los datos originales de superhéroes desde el archivo JSON
     const datosOriginales = fs.readFileSync(rutaOriginal, 'utf8');
@@ -45,7 +45,7 @@ export function agregarSuperheroes(rutaOriginal, rutaNuevos) {
     const superheroesOriginales = JSON.parse(datosOriginales);
     const nuevosSuperheroes = JSON.parse(datosNuevos);
   
-    // Convertir los nuevos superhéroes en instancias de la clase Superheroe
+    // Convertir los nuevos superhéroes a instancias de la clase Superheroe
     const instanciasNuevos = nuevosSuperheroes.map(
       hero => new Superheroe(
         hero.id, 
