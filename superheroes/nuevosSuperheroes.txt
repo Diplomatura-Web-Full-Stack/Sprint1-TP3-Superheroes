@@ -20,7 +20,7 @@
         "edad": 3,
         "planetaOrigen": "Llantópolis",
         "debilidad": "Cuando le dan lo que quiere, pierde su poder",
-        "poder": [El llanto ultra sónico (hace temblar paredes y desbloquear puertas)"],
+        "poder": ["El llanto ultra sónico (hace temblar paredes y desbloquear puertas)"],
         "habilidadEspecial": "El Pataleo Sísmico :genera pequeños terremotos que sacuden todo a su alrededor",
         "aliado": ["Mochi el Osito Dramático (un peluche que aumenta su poder cuando es abrazado)"],
         "enemigo": ["El Maestro ‘Ya Fue’ (trata de distraerla para que olvide su berrinche)"]

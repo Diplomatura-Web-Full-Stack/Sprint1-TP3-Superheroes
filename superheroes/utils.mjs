@@ -25,7 +25,7 @@ export function leerSuperheroes(ruta){
 
     //convertir a instancias de superheroe
     const superheroes=superheroesArray.map(
-        hero => new Superheroe(hero.id, hero.nombreSuperheroe, hero.nombreReal, hero.nombreSociedad, hero.edad, hero.planetaOrigen, hero.debilidad, hero.poder, hero.habilidadEspecial, hero.aaliado, hero.enemigo)
+        hero => new Superheroe(hero.id, hero.nombreSuperheroe, hero.nombreReal, hero.nombreSociedad, hero.edad, hero.planetaOrigen, hero.debilidad, hero.poder, hero.habilidadEspecial, hero.aliado, hero.enemigo)
     );
 
     //ordenar por nombre de superheroes
