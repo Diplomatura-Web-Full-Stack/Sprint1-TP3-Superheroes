@@ -1,0 +1,22 @@
+{
+  "name": "sprint1-tp3-superheroes",
+  "version": "1.0.0",
+  "description": "Este repositorio fue creado en el marco de la **Diplomatura Universitaria en Desarrollo Web Full Stack con JavaScript**, impartida por el **Nodo Tecnológico y la Universidad de Catamarca**. El trabajo contenido aquí corresponde al **TP3 del 1° Sprint del Módulo 3** de la diplomatura.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diplomatura-Web-Full-Stack/Sprint1-TP3-Superheroes.git"
+  },
+  "author": "zurita debora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Diplomatura-Web-Full-Stack/Sprint1-TP3-Superheroes/issues"
+  },
+  "homepage": "https://github.com/Diplomatura-Web-Full-Stack/Sprint1-TP3-Superheroes#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
